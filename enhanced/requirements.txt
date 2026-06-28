@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+python-dotenv
+streamlit-authenticator
+openpyxl
+xlrd
+scipy
+fpdf2
+requests
